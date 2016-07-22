@@ -20,8 +20,10 @@
 
     Or is it?
 
+    ```javascript
     const a = [ 1, 2, 3 ]
     a[2] = 5
+    ```
 
 * Functions
 
