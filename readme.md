@@ -34,12 +34,12 @@
       console.log(`button ${i} clicked`)
     )
     document
-      .querySelector("#buttons")
+      .querySelector("#user-content-buttons")
       .appendChild(button)
   }
   ```
 
-  <div id="buttons"></div>
+  <div id="user-content-buttons"></div>
 
 ## `let`
 
